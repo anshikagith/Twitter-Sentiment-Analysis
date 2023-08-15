@@ -1,2 +1,2 @@
 # Twitter-Sentiment-Analysis
-Twitter sentiment analysis using Naive Byes algorithm
+Twitter sentiment analysis using Naive Bayes algorithm
